@@ -1,0 +1,141 @@
+*{
+margin: 0;
+padding: 0;
+}
+/*estilos pagina 1*/
+.index{
+width: 970px;
+height: 1390px;
+margin: 60px 0 0 80px;
+background-color: blueviolet;
+padding: 10px  30px ;
+}
+.index article, .index div, .index aside{
+    width: 900px
+}
+.index article{
+height: 600px;
+margin: 10px 30px 20px 40px;
+background-color: blue;
+}
+.index div{
+    height: 400px;
+    margin: 10px 10px 30px 30px;
+    background-color: red;
+}
+.index aside{
+    height: 300px;
+    margin: 30px 40px 30px 30px;
+    background-color: yellow;
+}
+
+/*estilos de pagina 2*/
+
+.page2{
+    width: 895px;
+    height: 950px;
+    margin: 60px 0 0 80px;
+    background-color: rgb(22, 177, 61);
+    padding: 30px 0 25px 0;
+}
+.page2 article,.page2 div,.page2 aside{
+    width: 835px;
+}
+ .page2 article{
+height:260px ;
+margin: 30px 20px 15px 40px;
+background-color: rgb(12, 14, 12);
+padding-top: 10px; 
+}
+.page2ar{
+    height:100px ;
+    width: 800px;
+    margin: 30px 15px 20px 20px;
+    background-color: rgb(141, 8, 8);
+}
+.page2ab{
+    height: 100px;
+    width: 800px;
+    margin: 20px 15px 10px 20px;
+    background-color: rgb(92, 92, 224)
+}
+.page2 div{
+    width: 835px;
+    height: 350px;
+    margin: 15px 30px 20px 30px;
+    background-color: rgb(218, 190, 34);
+    padding-top: 10px
+}
+.page2k{
+    width: 800px;
+    height: 300px;
+    margin: 20px 25px 30px 10px;
+    background-color: rgb(70, 8, 70);
+}
+.page2 aside{
+    width: 835px;
+    height: 250px;
+    margin: 20px 15px 25px 25px;
+    background-color: magenta
+}
+
+.page3{
+    width: 980px;
+    height: 830px;
+    margin: 40px 0 0 30px;
+    background-color: chartreuse;
+    padding: 10px;
+}
+.page3 article{
+    width: 900px;
+    height: 250px;
+    margin: 10px 40px 30px 40px;
+    background-color: darkblue
+}
+.page3 div{
+    width: 900px;
+    height: 240px;
+    margin: 30px 50px 40px 30px;
+    background-color: brown;
+    padding-top: 10px
+}
+.page3ar{
+    width: 850px;
+    height: 100px;
+    margin: 10px 15px 20px 15px;
+    background-color: cyan    
+}
+.page3ab{
+    width: 850px;
+    height: 100px;
+    margin: 20px 15px 10px 15px;
+    background-color: darkolivegreen
+}
+.page3 aside{
+    width: 900px;
+    height: 200px;
+    margin: 40px 60px 10px 20px;
+    background-color: darkred;
+    padding-top: 10px;
+}
+.page31a{
+    width: 860px;
+    height: 140px;
+    margin: 20px;
+    background-color: deeppink;
+    padding-top: 10px;
+}
+.page32a{
+    width: 820px;
+    height: 100px;
+    margin: 10px 20px 10px 20px;
+    background-color: black;
+    padding-top: 10px;
+    
+}
+.page33a{
+    width: 780px;
+    height: 80px;
+    margin: 0 0 0 10px;
+    background-color: darkkhaki
+}
